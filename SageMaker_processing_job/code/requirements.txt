@@ -1,0 +1,2 @@
+sagemaker
+snowflake-connector-python[pandas]
